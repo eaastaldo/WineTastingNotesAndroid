@@ -1,0 +1,9 @@
+<resources>
+    <color name="wine">#7A1732</color>
+    <color name="nose">#2F6B46</color>
+    <color name="palate">#9A4D2B</color>
+    <color name="conclusion">#274C77</color>
+    <color name="ink">#1F2530</color>
+    <color name="paper">#FFFDF9</color>
+    <color name="line">#D9D3CA</color>
+</resources>
